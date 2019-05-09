@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\bin\Debug\netcoreapp2.2\ModelDriver.deps.json
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\bin\Debug\netcoreapp2.2\ModelDriver.runtimeconfig.json
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\bin\Debug\netcoreapp2.2\ModelDriver.runtimeconfig.dev.json
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\bin\Debug\netcoreapp2.2\ModelDriver.dll
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\bin\Debug\netcoreapp2.2\ModelDriver.pdb
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\obj\Debug\netcoreapp2.2\ModelDriver.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\obj\Debug\netcoreapp2.2\ModelDriver.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\obj\Debug\netcoreapp2.2\ModelDriver.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\obj\Debug\netcoreapp2.2\ModelDriver.AssemblyInfo.cs
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\obj\Debug\netcoreapp2.2\ModelDriver.dll
+C:\Users\user\source\repos\Dvij\ModelDriver\ModelDriver\obj\Debug\netcoreapp2.2\ModelDriver.pdb
